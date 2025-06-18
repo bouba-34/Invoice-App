@@ -91,8 +91,8 @@ class Invoice {
 ### Installation
 ```bash
 # Cloner le repository
-git clone [URL_DU_REPO]
-cd invoice_app
+git clone https://github.com/bouba-34/Invoice-App
+cd Invoice-App
 
 # Installer les dépendances
 flutter pub get
